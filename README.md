@@ -96,7 +96,7 @@ print(y_pred)
    ```bash
    git clone https://github.com/shivanand143/Movie_Recomandation_ai_model.git
    ```
-2. Run in Jupiter Notebook:
+2. Run in Jupyter Notebook:
    ```bash
    movie_recommendation.ipynb
    ```
