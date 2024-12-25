@@ -1,6 +1,3 @@
-Here's the updated README with author information and a LinkedIn link:
-
----
 
 # Movie Recommendation AI Model
 
@@ -36,7 +33,7 @@ from sklearn.ensemble import RandomForestRegressor
 ### Step 2: Load Dataset
 The dataset is loaded directly from a publicly available URL:
 ```python
-movies = pd.read_csv('https://raw.githubusercontent.com/YBIFoundation/Dataset/main/Movies%20Recommendation.csv')
+movies = pd.read_csv('https://raw.githubusercontent.com/shivanand143/Movie_Recomandation_ai_model/refs/heads/main/Dataset/Movies%20Recommendation.csv')
 print(movies.head())
 ```
 
