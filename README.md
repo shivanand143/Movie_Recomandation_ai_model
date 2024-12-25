@@ -96,13 +96,9 @@ print(y_pred)
    ```bash
    git clone https://github.com/shivanand143/Movie_Recomandation_ai_model.git
    ```
-2. Install the required libraries:
+2. Run in Jupiter Notebook:
    ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the script:
-   ```bash
-   python movie_recommendation.py
+   movie_recommendation.ipynb
    ```
 
 ---
@@ -115,7 +111,7 @@ print(y_pred)
 ---
 
 ## Acknowledgments
-- **Dataset Source:** [YBI Foundation's Movie Recommendation Dataset](https://github.com/YBIFoundation/Dataset)  
+- **Dataset Source:** [Click Here](https://github.com/shivanand143/Movie_Recomandation_ai_model/tree/e90671a44883627573f1efa516d412d3b042ca12/Dataset)  
 - **Frameworks:** Powered by Scikit-learn and pandas libraries.
 
 ---
